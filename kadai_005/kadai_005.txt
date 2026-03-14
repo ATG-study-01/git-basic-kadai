@@ -1,0 +1,11 @@
+commit 3638f8d303e4e789bff8991a72297b9436319e61 (HEAD -> main)
+Author: Riefer3 <ua21s567@gmail.com>
+Date:   Sat Mar 14 15:13:46 2026 +0900
+
+    2回目コミット
+
+commit 47a4b163d048a201c95006db212c116f6a0e20a6
+Author: Riefer3 <ua21s567@gmail.com>
+Date:   Sat Mar 14 15:12:21 2026 +0900
+
+    初回コミット
